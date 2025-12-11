@@ -34,6 +34,7 @@ let data = {
   es: "Español",
   sv: "Svenska",
   uk: "Українська",
+  vi: "Tiếng Việt",
 };
 
 let iso639_2 = {
@@ -67,6 +68,7 @@ let iso639_2 = {
   sv: "swe",
   tr: "tur",
   uk: "ukr",
+  vi: "vie",
 };
 
 function getValueFromKey(key) {
